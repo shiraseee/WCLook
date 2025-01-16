@@ -17,10 +17,10 @@ To get started with the app, follow these steps:
 
 Clone the repository:
 
-bash
-Copier
+
 git clone git@github.com:shiraseee/WCLook.git
-Install dependencies: Open the project in Xcode and install dependencies via CocoaPods or Swift Package Manager (depending on your setup).
+
+Install dependencies: Open the project in Xcode and install Swift Package Manager.
 
 Run the app: Open the project in Xcode and build it for your simulator or device.
 
