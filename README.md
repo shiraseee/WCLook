@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copier
-git clone https://github.com/your-username/WCLook.git
+git clone git@github.com:shiraseee/WCLook.git
 Install dependencies: Open the project in Xcode and install dependencies via CocoaPods or Swift Package Manager (depending on your setup).
 
 Run the app: Open the project in Xcode and build it for your simulator or device.
