@@ -1,0 +1,259 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "- %@" : {
+
+    },
+    "%.2f km" : {
+
+    },
+    "%.f m" : {
+
+    },
+    "%@" : {
+
+    },
+    "🧻" : {
+
+    },
+    "card" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cartes"
+          }
+        }
+      }
+    },
+    "citation" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Citations"
+          }
+        }
+      }
+    },
+    "copy_address" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "copier l’adresse"
+          }
+        }
+      }
+    },
+    "Distance estimée à %.2f km" : {
+
+    },
+    "Distance estimée à %.f m" : {
+
+    },
+    "Distance inconnue" : {
+
+    },
+    "Durée à pied: %@" : {
+
+    },
+    "error_authorization_localization" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veuillez autoriser la localisation pour afficher les toilettes."
+          }
+        }
+      }
+    },
+    "home" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toilettes"
+          }
+        }
+      }
+    },
+    "Image représentant %@" : {
+
+    },
+    "Itinéraire" : {
+
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "loading" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chargement…"
+          }
+        }
+      }
+    },
+    "location_permission_denied" : {
+      "comment" : "Location access has been denied. Please enable it in your device settings.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Location access has been denied. Please enable it in your device settings."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'accès à la localisation a été refusé. Veuillez l'activer dans les réglages de votre appareil."
+          }
+        }
+      }
+    },
+    "map_section_title" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carte"
+          }
+        }
+      }
+    },
+    "no_toilets_found" : {
+      "comment" : "No toilets found.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No toilets found."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune toilette trouvée."
+          }
+        }
+      }
+    },
+    "open_google_maps" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Google Maps"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Google Maps"
+          }
+        }
+      }
+    },
+    "open_plans" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plans"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plans"
+          }
+        }
+      }
+    },
+    "open_settings" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accéder aux réglages"
+          }
+        }
+      }
+    },
+    "text_open_maps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Itinéraire"
+          }
+        }
+      }
+    },
+    "title_app" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listes des WC"
+          }
+        }
+      }
+    },
+    "title_citations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Citations Inspirantes"
+          }
+        }
+      }
+    },
+    "title_splashscreen" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenue sur WCLook"
+          }
+        }
+      }
+    },
+    "unknown_localization" : {
+      "comment" : "unknown localization",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "unknown localization"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localisation inconnue"
+          }
+        }
+      }
+    },
+    "wc_details" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Description"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
